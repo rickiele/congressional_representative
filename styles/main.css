@@ -1,0 +1,59 @@
+
+.main_rep {
+    margin: 2em;
+}
+
+.rep_image {
+}
+.main_rep__info {
+    /* background-color: red; */
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+}
+
+.main_rep__name{
+    padding-left: 1.5em;
+}
+
+.democrat {
+    color: #64aee3;
+}
+
+.main_rep__committees {
+    /* padding: 20px; */
+    align-items: center;
+    margin-top: 3em;
+}
+
+.main_rep__legislation_enacted {
+    align-items: center;
+    margin-top: 3em;
+}
+h1 {
+    font-size: 2.5em;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 1em;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    
+}
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+    background-color: #102d42;
+    color: white;
+    
+}
+
+a {
+    color: #86aad9;
+}
+
+a:hover {
+    color: pink;
+}
